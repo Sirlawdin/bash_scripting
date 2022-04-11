@@ -1,0 +1,7 @@
+#!/bin/bash
+# Author: Salaudeen O. Abdulrasaq
+# Date Created: 04/11/2022
+# Description: This script will output "Hello World" to the screen
+# Date Modified: 04/11/2022
+
+echo 'Hello World'
